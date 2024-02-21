@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer, Teacher and Aspiring Full-Stack Developer
 --------------------------------------------------------
 
-I've been programming for over 6 years, ranging from Java Applications, Android Apps and Websites. I have spent a portion of those years teaching Java Programming and SQL. Expanded my knowledge and skillsets to creating and working on Web Apps.
+I've been programming for over 6 years, ranging from Java Applications, Android Apps and Websites. I have spent a 3 of those years teaching Java Programming and SQL, the 3 years + on creating and designing Web Apps. Expanded my knowledge and skillsets to creating and working on Web Apps.
 
 * 🌍  I'm based in Johannesburg, South Africa
 * ✉️  You can contact me at [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)
