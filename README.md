@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siphesihle Mthethwa
 ===========================================================================================================================================
 
-Full-Stack Developer
+Full-Stack Developer| Computer Science Educator
 --------------------------------------------------------
 
-I've been programming for over 6 years, ranging from Java Applications, Android Apps and Websites. I have spent a 3 of those years teaching Java Programming and SQL, the 3 years + on creating and designing Web Apps. Expanded my knowledge and skillsets to creating and working on Web Apps using current Frameworks and Programmming Languages.
+I've been programming for over 7 years, including Java Applications, Android Apps, and Websites. I have spent 3 of those years teaching Java Programming and SQL, the 3 years plus on creating and designing Web Apps and expanding my knowledge and skillsets to creating and working on Web Apps using current Frameworks and Programmming Languages.
 
 * https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/
 * 🌍  I'm based in Johannesburg, South Africa
 * ✉️  You can contact me at [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)
 * 🧠  I'm learning Next.JS, Node.JS, and JQUERY
 * 🤝  I'm open to collaborating on React and Java Applications/Projects
-* ⚡  I am Batman, before you argue, you have not seen Batman or Myself in the same stand up meeting.
+* ⚡  I am Batman. Before you argue, you have not seen Batman or Myself in the same stand-up meeting.
 
 ### Skills
 
