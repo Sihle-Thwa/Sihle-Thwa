@@ -7,10 +7,9 @@ Full-Stack Developer| Computer Science Educator
 I've been programming for over 7 years, including Java Applications, Android Apps, and Websites. I have spent 3 of those years teaching Java Programming and SQL, the 3 years plus on creating and designing Web Apps and expanding my knowledge and skillsets to creating and working on Web Apps using current Frameworks and Programmming Languages.
 
 * https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/
-* 🌍  I'm based in Johannesburg, South Africa
-* ✉️  You can contact me at [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)
-* 🧠  I'm learning Next.JS, Node.JS, and JQUERY
-* 🤝  I'm open to collaborating on React and Java Applications/Projects
+* 🌍  I'm based in Johannesburg, South Africa.
+* ✉️  You can contact me at [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com).
+* 🤝  I'm open to collaborating and networking.
 * ⚡  I am Batman. Before you argue, you have not seen Batman or Myself in the same stand-up meeting.
 
 ### Skills
