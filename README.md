@@ -15,9 +15,9 @@ Combining leadership experience as a Technical Co-Founder with background as an 
 - 🤖 **AI Code Quality & Optimization:** Evaluated AI-generated code solutions across JS, C#, Java, Python, and Swift at Outlier.ai.
 - 🎓 **Education:** B.Ed in IT from Wits University (Graduated top of class in programming coursework) & Software Engineering graduate from ALX Africa.
 - 🌍 **Location:** Johannesburg, South Africa.
-- ✉️ **Contact:** [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)[cite: 3, 4]
+- ✉️ **Contact:** [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)
 - 💼 **Portfolio:** [siphesihle-b-mthethwa.vercel.app](https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/)
-- ⚡ **Fun Fact:** I am Batman. Before you argue, you have never seen Batman and myself in the same stand-up meeting.
+- ⚡ **PS:** As an IT and CS educator turned CTO who evaluated AI code for a living, and taught programming principles, I build solutions and SaaS platforms around one golden rule: If a confused undergrad and a hallucinating LLM can’t break my architecture, production definitely won't..
 
 ---
 
@@ -56,7 +56,7 @@ Combining leadership experience as a Technical Co-Founder with background as an 
 
 - 🏦 **[Dawn Analytics](https://github.com/Sihle-Thwa):** Consumer fintech SaaS platform for modeling and optimizing debt payoff strategies (avalanche, snowball, consolidation) using TanStack Start, React, TypeScript, and Recharts.
 - 📊 **[EasyOps SaaS](https://github.com/Sihle-Thwa):** B2B Multi-Tenant Workforce Management SaaS built with React, TypeScript, Supabase (PostgreSQL), Auth0, and Tailwind CSS.
-- 🛍 **[OpenShop](https://github.com/Sihle-Thwa):** E-commerce platform for pre-loved luxury brands built with React.js, Vite.js, and Bootstrap[cite: 3].
+- 🛍 **[OpenShop](https://github.com/Sihle-Thwa):** E-commerce platform for pre-loved luxury brands built with React.js, Vite.js, and Bootstrap.
 - 🏆 **[Sports Management App](https://github.com/Sihle-Thwa):** End-to-end sports management platform built with Node.js, Express, PostgreSQL, JWT, Tailwind, and shadcn/ui.
 
 ---
