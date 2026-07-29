@@ -2,21 +2,21 @@
 
 ### Mid-to-Senior Full-Stack Developer | Technical Architect & CTO | Cloud & DevOps Enthusiast
 
-I am a Mid-to-Senior Full-Stack Developer and Technical Lead based in Johannesburg, South Africa. I specialize in architecting scalable B2B multi-tenant SaaS platforms, high-performance web applications, and resilient cloud infrastructure[cite: 3]. 
+I am a Mid-to-Senior Full-Stack Developer and Technical Lead based in Johannesburg, South Africa. I specialize in architecting scalable B2B multi-tenant SaaS platforms, high-performance web applications, and resilient cloud infrastructure. 
 
-Combining leadership experience as a Technical Co-Founder with background as an IT Educator[cite: 3], I bridge technical precision with clear communication and product strategy[cite: 3].
+Combining leadership experience as a Technical Co-Founder with background as an IT and Computer Science Educator, I bridge technical precision with clear communication and product strategy.
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Architecting SaaS Platforms:** Currently leading technical strategy and architecture for fintech and workforce management SaaS platforms at Dawn Analytics and EasyOps[cite: 3].
-- 🛠 **Core Stack:** React, Next.js, TypeScript, ASP.NET Core, Node.js, PostgreSQL, Supabase, AWS, and Docker[cite: 3].
-- 🤖 **AI Code Quality & Optimization:** Evaluated AI-generated code solutions across JS, C#, Java, Python, and Swift at Outlier.ai[cite: 3].
-- 🎓 **Education:** B.Ed in IT from Wits University (Graduated top of class in programming coursework)[cite: 3] & Software Engineering graduate from ALX Africa[cite: 3].
-- 🌍 **Location:** Johannesburg, South Africa[cite: 3, 4].
+- 🔭 **Architecting SaaS Platforms:** Currently leading technical strategy and architecture for fintech and workforce management SaaS platforms at Dawn Analytics and EasyOps.
+- 🛠 **Core Stack:** React, Next.js, TypeScript, ASP.NET Core, Node.js, PostgreSQL, Supabase, AWS, and Docker.
+- 🤖 **AI Code Quality & Optimization:** Evaluated AI-generated code solutions across JS, C#, Java, Python, and Swift at Outlier.ai.
+- 🎓 **Education:** B.Ed in IT from Wits University (Graduated top of class in programming coursework) & Software Engineering graduate from ALX Africa.
+- 🌍 **Location:** Johannesburg, South Africa.
 - ✉️ **Contact:** [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)[cite: 3, 4]
-- 💼 **Portfolio:** [siphesihle-b-mthethwa.vercel.app](https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/)[cite: 4]
+- 💼 **Portfolio:** [siphesihle-b-mthethwa.vercel.app](https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/)
 - ⚡ **Fun Fact:** I am Batman. Before you argue, you have never seen Batman and myself in the same stand-up meeting.
 
 ---
@@ -54,10 +54,10 @@ Combining leadership experience as a Technical Co-Founder with background as an 
 
 ### 🌟 Featured Projects
 
-- 🏦 **[Dawn Analytics](https://github.com/Sihle-Thwa):** Consumer fintech SaaS platform for modeling and optimizing debt payoff strategies (avalanche, snowball, consolidation) using TanStack Start, React, TypeScript, and Recharts[cite: 3].
-- 📊 **[EasyOps SaaS](https://github.com/Sihle-Thwa):** B2B Multi-Tenant Workforce Management SaaS built with React, TypeScript, Supabase (PostgreSQL), Auth0, and Tailwind CSS[cite: 3].
+- 🏦 **[Dawn Analytics](https://github.com/Sihle-Thwa):** Consumer fintech SaaS platform for modeling and optimizing debt payoff strategies (avalanche, snowball, consolidation) using TanStack Start, React, TypeScript, and Recharts.
+- 📊 **[EasyOps SaaS](https://github.com/Sihle-Thwa):** B2B Multi-Tenant Workforce Management SaaS built with React, TypeScript, Supabase (PostgreSQL), Auth0, and Tailwind CSS.
 - 🛍 **[OpenShop](https://github.com/Sihle-Thwa):** E-commerce platform for pre-loved luxury brands built with React.js, Vite.js, and Bootstrap[cite: 3].
-- 🏆 **[Sports Management App](https://github.com/Sihle-Thwa):** End-to-end sports management platform built with Node.js, Express, PostgreSQL, JWT, Tailwind, and shadcn/ui[cite: 3].
+- 🏆 **[Sports Management App](https://github.com/Sihle-Thwa):** End-to-end sports management platform built with Node.js, Express, PostgreSQL, JWT, Tailwind, and shadcn/ui.
 
 ---
 
