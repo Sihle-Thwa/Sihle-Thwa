@@ -1,37 +1,95 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siphesihle Mthethwa
-===========================================================================================================================================
+# Hi 👋, I'm Siphesihle Mthethwa
 
-Full-Stack Developer| Computer Science Educator
---------------------------------------------------------
+### Mid-to-Senior Full-Stack Developer | Technical Architect & CTO | Cloud & DevOps Enthusiast
 
-I've been programming for over 7 years, including Java Applications, Android Apps, and Websites. I have spent 3 of those years teaching Java Programming and SQL, the 3 years plus on creating and designing Web Apps and expanding my knowledge and skillsets to creating and working on Web Apps using current Frameworks and Programmming Languages.
+I am a Mid-to-Senior Full-Stack Developer and Technical Lead based in Johannesburg, South Africa. I specialize in architecting scalable B2B multi-tenant SaaS platforms, high-performance web applications, and resilient cloud infrastructure[cite: 3]. 
 
-* https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/
-* 🌍  I'm based in Johannesburg, South Africa.
-* ✉️  You can contact me at [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com).
-* 🤝  I'm open to collaborating and networking.
-* ⚡  I am Batman. Before you argue, you have not seen Batman or Myself in the same stand-up meeting.
+Combining leadership experience as a Technical Co-Founder with background as an IT Educator[cite: 3], I bridge technical precision with clear communication and product strategy[cite: 3].
 
-### Skills
+---
 
+### 🚀 What I'm Up To
+
+- 🔭 **Architecting SaaS Platforms:** Currently leading technical strategy and architecture for fintech and workforce management SaaS platforms at Dawn Analytics and EasyOps[cite: 3].
+- 🛠 **Core Stack:** React, Next.js, TypeScript, ASP.NET Core, Node.js, PostgreSQL, Supabase, AWS, and Docker[cite: 3].
+- 🤖 **AI Code Quality & Optimization:** Evaluated AI-generated code solutions across JS, C#, Java, Python, and Swift at Outlier.ai[cite: 3].
+- 🎓 **Education:** B.Ed in IT from Wits University (Graduated top of class in programming coursework)[cite: 3] & Software Engineering graduate from ALX Africa[cite: 3].
+- 🌍 **Location:** Johannesburg, South Africa[cite: 3, 4].
+- ✉️ **Contact:** [sbcmthethwa79@gmail.com](mailto:sbcmthethwa79@gmail.com)[cite: 3, 4]
+- 💼 **Portfolio:** [siphesihle-b-mthethwa.vercel.app](https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/)[cite: 4]
+- ⚡ **Fun Fact:** I am Batman. Before you argue, you have never seen Batman and myself in the same stand-up meeting.
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages & Frameworks**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend & Styling**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend, Databases & Cloud/DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+- 🏦 **[Dawn Analytics](https://github.com/Sihle-Thwa):** Consumer fintech SaaS platform for modeling and optimizing debt payoff strategies (avalanche, snowball, consolidation) using TanStack Start, React, TypeScript, and Recharts[cite: 3].
+- 📊 **[EasyOps SaaS](https://github.com/Sihle-Thwa):** B2B Multi-Tenant Workforce Management SaaS built with React, TypeScript, Supabase (PostgreSQL), Auth0, and Tailwind CSS[cite: 3].
+- 🛍 **[OpenShop](https://github.com/Sihle-Thwa):** E-commerce platform for pre-loved luxury brands built with React.js, Vite.js, and Bootstrap[cite: 3].
+- 🏆 **[Sports Management App](https://github.com/Sihle-Thwa):** End-to-end sports management platform built with Node.js, Express, PostgreSQL, JWT, Tailwind, and shadcn/ui[cite: 3].
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://github.com/Sihle-Thwa">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sihle-Thwa&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=000000&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true" alt="Sihle-Thwa's GitHub stats" />
+  </a>
+  <a href="https://github.com/Sihle-Thwa">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sihle-Thwa&stroke=0f172a&background=ffffff&ring=000000&fire=000000&currStreakNum=0f172a&currStreakLabel=000000&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 
+<p align="left">
+  <a href="https://github.com/Sihle-Thwa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sihle-Thwa&langs_count=10&title_color=000000&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Sihle-Thwa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/siphesihle-mthethwa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### 🤝 Connect with Me
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Sihle-Thwa"><img src="https://github-readme-stats.vercel.app/api?username=Sihle-Thwa&show_icons=true&hide=stars,prs,contribs&count_private=true&title_color=000000&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="Sihle-Thwa's GitHub stats" /></a>
-
-<a href="http://www.github.com/Sihle-Thwa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sihle-Thwa&stroke=0f172a&background=ffffff&ring=000000&fire=000000&currStreakNum=0f172a&currStreakLabel=000000&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-
-<a href="http://www.github.com/Sihle-Thwa"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Sihle-Thwa&bg_color=ffffff&color=0f172a&line=f97316&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Sihle-Thwa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sihle-Thwa&langs_count=10&title_color=000000&text_color=0f172a&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/siphesihle-mthethwa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-siphesihle-b-mthethwas-projects.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:sbcmthethwa79@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
